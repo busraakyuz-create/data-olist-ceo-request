@@ -20,6 +20,10 @@ A business case on the **Olist** Brazilian e-commerce dataset. The CEO's questio
 |---|---|---|
 | Optimal number of sellers | 2,483 | **2,021** |
 
+![Cumulative profit before vs. after IT costs](images/cumulative_profit_it_costs.png)
+
+*Cumulative profit by seller rank (sellers sorted by profit). Blue: before IT costs ("öncesi"). Orange: after IT costs ("sonrası").*
+
 At the optimum of 2,021 sellers:
 
 | Metric | Value (BRL) |
